@@ -33,5 +33,6 @@ export class CalculatriceComponent {
   public reset() {
     this.randomNum1 = 0;
     this.randomNum2 = 0;
+    this.result = 0;
   }
 }
